@@ -39,10 +39,10 @@ nav {
   padding: 0 2em;
   background-color: none;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   margin-bottom: 152px;
-  
+margin: 0 auto;
   gap: 24px;
   background-color: #355674;
 }
@@ -50,14 +50,14 @@ nav {
 #logo {
   width: 114px;
   height: 46px;
-
+  margin: 0 100px;
 }
 #nav-links {
   list-style: none;
   display: flex;
   flex-direction: row;
   transition: all 0.2s ease-in-out;
-  padding: 25px 0px;
+  padding: 25px 100px;
 
 }
 #nav-links li a {
