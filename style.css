@@ -87,7 +87,7 @@ nav {
 .front-page {
   min-height: 992px;
   max-width: 1920px;
-  background-image: url(/heros/forsiden.jpg);
+  background-image: url(./heros/forsiden.jpg);
   object-fit: contain;
   background-repeat: no-repeat;
   background-size: cover;
@@ -283,7 +283,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/heros/produkter.jpg);
+  background-image: url(./heros/produkter.jpg);
   min-height: 924px;
   max-width: 1920px;
   background-repeat: no-repeat;
